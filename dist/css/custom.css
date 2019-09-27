@@ -1,0 +1,13 @@
+.infoblock{
+	background-image:linear-gradient(to right, blue, red);
+	padding:30px;
+	color:white;
+	font-weight:bold;
+	text-align:center;
+}
+.twocolumn{
+	column-count:2;
+}
+.infoblock1{
+	margin-top:0px !important;
+}
